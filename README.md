@@ -1,9 +1,5 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+jajos12;AI+Video+Gen+Engineer;Full+Stack+Developer;Game+Dev+Enthusiast" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
-
 ---
 
 ### 🚀 About Me
