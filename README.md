@@ -40,13 +40,10 @@
 ## ⚡ Currently
 
 ```yaml
-role        : AI Software Engineer @ iCog Labs (Generative Media / R&D)
-education   : BSc Computer Science @ Addis Ababa University (GPA 3.87, 2027)
-research    : Proof-term diffusion — applying diffusion models to Lean 4 proof terms
-              using metavariable system as typed-hole infrastructure
-building    : OS from scratch — 30-week project (C → xv6 → rebuild scheduler/memory/FS)
+role        : AI Software Engineer @ iCog Labs (R&D)
+education   : BSc Computer Science @ Addis Ababa University 
+research    : AI for mathematical theorem proving, Long form AI video generation
 studying    : Automated theorem proving (DeepSeekMath-V2, APOLLO, LeanDojo, ReProver)
-status      : Open to remote full-time / freelance
 ```
 
 ---
