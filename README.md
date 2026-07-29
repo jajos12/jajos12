@@ -42,7 +42,7 @@
 ```yaml
 role        : AI Software Engineer @ iCog Labs (R&D)
 education   : BSc Computer Science @ Addis Ababa University 
-research    : AI for mathematical theorem proving, Long form AI video generation
+research    : AI for mathematical theorem proving, Diffusion Models, RL
 studying    : Automated theorem proving (DeepSeekMath-V2, APOLLO, LeanDojo, ReProver)
 ```
 
